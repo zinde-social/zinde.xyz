@@ -52,7 +52,7 @@
 	},
 	"overrides": [
 		{
-			"files": ["sites/crossbell.io/**/*.ts", "sites/crossbell.io/**/*.tsx"],
+			"files": ["sites/zinde.xyz/**/*.ts", "sites/zinde.xyz/**/*.tsx"],
 			"extends": "next/core-web-vitals",
 			"rules": {
 				"@typescript-eslint/no-unused-vars": "warn",

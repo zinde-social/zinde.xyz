@@ -43,7 +43,7 @@ export function MigrationNotification() {
 
 			<Button
 				component={Link}
-				href="https://migrate.crossbell.io"
+				href="https://migrate.zinde.xyz"
 				target="_blank"
 				onClick={() => setStatus("hide")}
 			>

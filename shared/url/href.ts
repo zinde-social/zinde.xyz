@@ -3,7 +3,7 @@ import { composeNoteId } from "./param";
 
 /**
  * The origin of the current page.
- * @returns "https://crossbell.io" or "http://localhost:3000"
+ * @returns "https://zinde.xyz" or "http://localhost:3000"
  */
 export const getOrigin = ({
 	forceProductionOrigin,
@@ -11,7 +11,7 @@ export const getOrigin = ({
 	forceProductionOrigin?: boolean;
 } = {}) => {
 	if (forceProductionOrigin) {
-		return process.env.VERCEL_URL ?? "https://crossbell.io";
+		return process.env.VERCEL_URL ?? "https://zinde.xyz";
 	}
 
 	return config.domain;
@@ -56,7 +56,7 @@ export const composeCharacterFollowHref = (
 
 export const WalletCharacterManageHref = `${config.domain}/wallet/characters`;
 export const WalletCharacterNewHref = `${config.domain}/wallet/characters/new`;
-export const ExportCrossbellDataHref = `https://export.crossbell.io/`;
+export const ExportCrossbellDataHref = `https://export.zinde.xyz/`;
 
 /**
  * @example "/wallet/characters/10"

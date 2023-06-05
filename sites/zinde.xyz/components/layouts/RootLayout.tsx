@@ -5,10 +5,10 @@ export default function RootLayout({ children }: any) {
 		<html>
 			<body>
 				<Head>
-					<title>Crossbell.io</title>
+					<title>zinde.xyz</title>
 					<meta
 						name="description"
-						content="Crossbell.io - Own Your Social Activities"
+						content="zinde.xyz - Own Your Social Activities"
 					/>
 					<link rel="icon" href="/favicon.ico" />
 				</Head>

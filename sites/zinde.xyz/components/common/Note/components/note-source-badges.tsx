@@ -7,7 +7,7 @@ import { stringToInteger } from "@crossbell/ui";
 import { getSourceLink } from "@crossbell/util-metadata";
 
 const builtInColorMap = {
-	["crossbell.io"]: ["#E1BE60", "#000"],
+	["zinde.xyz"]: ["#E1BE60", "#000"],
 	xlog: ["#6466e9", "#fff"],
 	operatorsync: ["#5298e9", "#fff"],
 	sync: ["#5298e9", "#fff"],

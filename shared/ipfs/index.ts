@@ -24,7 +24,7 @@ export const uploadToIpfs = async (file: File | Blob) => {
 	const formData = new FormData();
 	formData.append("file", file);
 
-	const result = await fetch("https://ipfs-relay.crossbell.io/upload", {
+	const result = await fetch("https://ipfs-relay.zinde.xyz/upload", {
 		method: "PUT",
 		body: formData,
 	});

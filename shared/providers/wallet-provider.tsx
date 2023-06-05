@@ -3,7 +3,7 @@ import { WagmiConfig, createClient } from "wagmi";
 import { getDefaultClientConfig } from "@crossbell/connect-kit";
 
 const client = createClient(
-	getDefaultClientConfig({ appName: "crossbell.io" })
+	getDefaultClientConfig({ appName: "zinde.xyz" })
 );
 
 export function WalletProvider({ children }: PropsWithChildren) {

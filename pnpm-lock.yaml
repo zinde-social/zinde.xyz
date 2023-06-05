@@ -315,7 +315,7 @@ importers:
         specifier: 0.51.8
         version: 0.51.8(@unocss/webpack@0.51.8)(postcss@8.4.23)(vite@4.3.1)
 
-  sites/crossbell.io:
+  sites/zinde.xyz:
     dependencies:
       lodash.once:
         specifier: 4.1.1

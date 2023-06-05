@@ -35,10 +35,10 @@ export function CommunitySupportSection() {
 				<div className="md:flex md:gap-[40px] md:px-[24px]">
 					<a
 						className="ux-overlay bg-[#fff] text-[#000] text-[14px] font-medium w-full rounded-[12px] h-[48px] flex items-center justify-center mb-[22px] md:mb-0"
-						href="mailto:contact@crossbell.io"
+						href="mailto:contact@zinde.xyz"
 						target="_blank"
 					>
-						Email contact@crossbell.io
+						Email contact@zinde.xyz
 					</a>
 
 					<a

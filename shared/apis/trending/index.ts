@@ -4,7 +4,7 @@ import { CharacterEntity, NoteEntity } from "crossbell.js";
 const SCOPE_KEY = ["trending"];
 
 type AvailableType = "character" | "note";
-const baseUrl = "https://recommend.crossbell.io/raw";
+const baseUrl = "https://recommend.zinde.xyz/raw";
 
 export type GetTrendingNotesResult<T extends AvailableType> = {
 	items: TrendingRawResponse[T];

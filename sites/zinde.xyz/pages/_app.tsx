@@ -38,7 +38,7 @@ export default function App({ Component, pageProps }: AppPropsWithLayout) {
 	return (
 		<>
 			<Head>
-				<title>Crossbell.io</title>
+				<title>zinde.xyz</title>
 				<meta
 					name="viewport"
 					content="minimum-scale=1, initial-scale=1, width=device-width"
@@ -47,12 +47,12 @@ export default function App({ Component, pageProps }: AppPropsWithLayout) {
 			</Head>
 
 			<DefaultSeo
-				title="Crossbell.io"
+				title="zinde.xyz"
 				description="Own Your Social Activities!"
 				openGraph={{
 					type: "website",
 					locale: "en_US",
-					url: "https://crossbell.io",
+					url: "https://zinde.xyz",
 					site_name: "Crossbell",
 				}}
 				twitter={{

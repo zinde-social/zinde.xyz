@@ -8,7 +8,7 @@ spec:
   - web
   routes:
   - kind: Rule
-    match: Host(`crossbell.io`) || Host(`www.crossbell.io`)
+    match: Host(`zinde.xyz`) || Host(`www.zinde.xyz`)
     services:
     - name: crossbell-io
       port: 3000

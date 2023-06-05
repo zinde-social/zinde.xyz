@@ -6,15 +6,15 @@ export default {
 		endpoint:
 			process.env.NEXT_PUBLIC_OPERATOR_SYNC_ENDPOINT ??
 			(process.env.NODE_ENV === "production"
-				? "https://opsync.crossbell.io/v1"
-				: "https://test-opsync.crossbell.io/v1"),
+				? "https://opsync.zinde.xyz/v1"
+				: "https://test-opsync.zinde.xyz/v1"),
 	},
 	domain:
 		process.env.DOMAIN_NAME ??
 		(process.env.NEXT_PUBLIC_VERCEL_URL &&
 			`https://${process.env.NEXT_PUBLIC_VERCEL_URL}`) ??
 		(process.env.NODE_ENV == "production"
-			? "https://crossbell.io"
+			? "https://zinde.xyz"
 			: "http://localhost:3000"),
 
 	xSync: {
@@ -26,10 +26,10 @@ export default {
 	},
 
 	xFeed: {
-		domain: process.env.X_FEED_WEBSITE || "https://crossbell.io/feed",
+		domain: process.env.X_FEED_WEBSITE || "https://zinde.xyz/feed",
 	},
 
 	xShop: {
-		domain: process.env.X_SHOP_WEBSITE || "https://crossbell.io/shop",
+		domain: process.env.X_SHOP_WEBSITE || "https://zinde.xyz/shop",
 	},
 } as const;

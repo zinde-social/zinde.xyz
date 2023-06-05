@@ -17,14 +17,14 @@ export const linksGroup: {
 		title: "Resources",
 		list: [
 			{ text: "ToS & Policy", href: "https://legal.xlog.app/Privacy-Policy" },
-			{ text: "Indexer", href: "https://indexer.crossbell.io/docs" },
+			{ text: "Indexer", href: "https://indexer.zinde.xyz/docs" },
 			{
 				text: "Wiki",
 				href: "https://github.com/Crossbell-Box/Crossbell-Contracts/wiki",
 			},
 			{ text: "Blog", href: "https://crossbell-blog.xlog.app/" },
-			{ text: "Scan", href: "https://scan.crossbell.io/" },
-			{ text: "Status", href: "https://status.crossbell.io/" },
+			{ text: "Scan", href: "https://scan.zinde.xyz/" },
+			{ text: "Status", href: "https://status.zinde.xyz/" },
 		],
 	},
 	{

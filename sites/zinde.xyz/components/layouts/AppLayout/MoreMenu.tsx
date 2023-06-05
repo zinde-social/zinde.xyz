@@ -20,8 +20,8 @@ export default function MoreMenu() {
 
 			<Menu.Dropdown>
 				<Menu.Label>Toolbox</Menu.Label>
-				<MenuItemLink href="https://scan.crossbell.io/">Scan</MenuItemLink>
-				<MenuItemLink href="https://faucet.crossbell.io/">Faucet</MenuItemLink>
+				<MenuItemLink href="https://scan.zinde.xyz/">Scan</MenuItemLink>
+				<MenuItemLink href="https://faucet.zinde.xyz/">Faucet</MenuItemLink>
 
 				<Menu.Divider />
 

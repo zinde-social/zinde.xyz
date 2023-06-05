@@ -1,30 +1,30 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22665058/192958999-c7c8828d-4c40-41de-a239-d1cf6e3710d2.png" width="100" />
   <h1>Crossbell</h1>
-  <strong>🔔 Own Your Social Activities on <a href="https://crossbell.io">Crossbell.io</a></strong>
+  <strong>🔔 Own Your Social Activities on <a href="https://zinde.xyz">zinde.xyz</a></strong>
 
   <p>
-    <a href="https://github.com/Crossbell-Box/crossbell.io/blob/master/LICENSE">
+    <a href="https://github.com/Crossbell-Box/zinde.xyz/blob/master/LICENSE">
       <img
         src="https://img.shields.io/badge/license-MIT-blue.svg"
-        alt="crossbell.io is released under the MIT license."
+        alt="zinde.xyz is released under the MIT license."
       />
     </a>
-    <a href="https://github.com/Crossbell-Box/crossbell.io/pulls">
+    <a href="https://github.com/Crossbell-Box/zinde.xyz/pulls">
       <img
         src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"
         alt="PRs welcome!"
       />
     </a>
-    <a href="https://deepsource.io/gh/Crossbell-Box/crossbell.io">
+    <a href="https://deepsource.io/gh/Crossbell-Box/zinde.xyz">
       <img
-        src="https://deepsource.io/gh/Crossbell-Box/crossbell.io.svg/?label=active+issues&show_trend=true"
+        src="https://deepsource.io/gh/Crossbell-Box/zinde.xyz.svg/?label=active+issues&show_trend=true"
         alt="GitHub actions"
       />
     </a>
-    <a href="https://status.crossbell.io/">
+    <a href="https://status.zinde.xyz/">
       <img
-        src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fcrossbell.io%2F"
+        src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fzinde.xyz%2F"
         alt="Website status"
       />
     </a>
@@ -45,9 +45,9 @@
 
 ## 🔔 About Crossbell
 
-Crossbell is a platform for owning your social activities, composed of [an EVM-compatible blockchain](https://scan.crossbell.io) and [a set of smart contracts](https://github.com/Crossbell-Box/Crossbell-Contracts).
+Crossbell is a platform for owning your social activities, composed of [an EVM-compatible blockchain](https://scan.zinde.xyz) and [a set of smart contracts](https://github.com/Crossbell-Box/Crossbell-Contracts).
 
-[Crossbell.io](https://crossbell.io) is an ecosystem app for Crossbell. You may also want to check out other ecosystem apps:
+[zinde.xyz](https://zinde.xyz) is an ecosystem app for Crossbell. You may also want to check out other ecosystem apps:
 
 - Blog free on [xLog](https://xlog.app)
 - Sync tweets with [xSync](https://xsync.app)
@@ -61,8 +61,8 @@ Crossbell is a platform for owning your social activities, composed of [an EVM-c
 
 ## 🧑‍💻 Contributing
 
-Pull requests are welcome. For major changes, please open an [issue](https://github.com/Crossbell-Box/crossbell.io/issues) first to discuss what you would like to change.
+Pull requests are welcome. For major changes, please open an [issue](https://github.com/Crossbell-Box/zinde.xyz/issues) first to discuss what you would like to change.
 
 ## 📝 License
 
-Crossbell.io is open-sourced software licensed under the © [MIT](https://github.com/Crossbell-Box/crossbell.io/blob/master/LICENSE).
+zinde.xyz is open-sourced software licensed under the © [MIT](https://github.com/Crossbell-Box/zinde.xyz/blob/master/LICENSE).

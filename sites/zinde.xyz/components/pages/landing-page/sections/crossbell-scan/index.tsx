@@ -66,7 +66,7 @@ export function CrossbellScanSection() {
 					<div className="flex flex-col gap-[16px] md:flex-row-reverse md:gap-[64px]">
 						<a
 							className={`${btnStyle} bg-[#9688F2] text-[#fff]`}
-							href="https://scan.crossbell.io"
+							href="https://scan.zinde.xyz"
 							target="_blank"
 						>
 							Explore CrossbellScan
@@ -74,7 +74,7 @@ export function CrossbellScanSection() {
 
 						<a
 							className={`${btnStyle} bg-[#F6F7F9] text-[#000]`}
-							href="https://docs.crossbell.io"
+							href="https://docs.zinde.xyz"
 							target="_blank"
 						>
 							Build Now
@@ -189,7 +189,7 @@ function useScanStatus(): ScanStatusData {
 	});
 
 	const { data } = useQuery<ScanStatusData>(
-		["crossbell.io", "scan-status"],
+		["zinde.xyz", "scan-status"],
 		() => fetch("/api/scan-status").then((res) => res.json()),
 		{
 			refetchOnWindowFocus: false, // to prevent random refresh

@@ -12,7 +12,7 @@ export default async function handler(
 	req: NextApiRequest,
 	res: NextApiResponse<ScanStatusData>
 ) {
-	const dom = await JSDOM.fromURL("https://scan.crossbell.io/");
+	const dom = await JSDOM.fromURL("https://scan.zinde.xyz/");
 
 	function getText(selector: string) {
 		return (

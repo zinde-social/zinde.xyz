@@ -2,7 +2,7 @@ import { Socket } from "phoenix";
 import once from "lodash.once";
 
 export const scanSocket = once(() => {
-	const socket = new Socket("wss://scan.crossbell.io/socket", {
+	const socket = new Socket("wss://scan.zinde.xyz/socket", {
 		params: { locale: "en" },
 	});
 

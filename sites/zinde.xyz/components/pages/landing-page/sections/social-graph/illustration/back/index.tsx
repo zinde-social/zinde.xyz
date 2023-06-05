@@ -112,7 +112,7 @@ export function Back({ isActive }: { isActive: boolean }) {
 				}}
 			>
 				<a
-					href="https://f.crossbell.io/pass"
+					href="https://f.zinde.xyz/pass"
 					target="_blank"
 					onClick={(e) => e.stopPropagation()}
 				>
