@@ -51,8 +51,8 @@ export function WhatIsCrossbellSection() {
 						keyframes={keyframes({ isMD }).content}
 						className="font-deca font-400 text-[28px] leading-[35px] mt-[16px] md:mt-[80px] max-w-[1515px] md:text-[64px] lg:text-[96px] md:leading-[1.2]"
 					>
-						Crossbell is a social ownership platform, comprised of an
-						EVM-compatible blockchain and a set of smart contracts.
+						Zinde is a social ownership platform, comprised of an EVM-compatible
+						blockchain and a set of smart contracts.
 					</Scroll.Item>
 				</div>
 			</div>
