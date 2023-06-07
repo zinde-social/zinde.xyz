@@ -27,15 +27,13 @@ export default function MoreMenu() {
 
 				<Menu.Label>Community</Menu.Label>
 				<MenuItemLink
-					href="https://github.com/Crossbell-Box"
+					href="https://github.com/zinde-social"
 					iconUrl="https://cdn.svgporn.com/logos/github-icon.svg"
 				>
 					GitHub
 				</MenuItemLink>
-				<MenuItemLink href="https://twitter.com/_Crossbell">
-					Twitter
-				</MenuItemLink>
-				<MenuItemLink href="https://discord.gg/4GCwDsruyj">
+				<MenuItemLink href="https://twitter.com/zindexyz">Twitter</MenuItemLink>
+				<MenuItemLink href="https://discord.gg/zindegroup">
 					Discord
 				</MenuItemLink>
 

@@ -29,17 +29,17 @@ const nextConfig: NextConfig = {
 			{
 				source: "/sitemap.xml",
 				destination:
-					"https://raw.githubusercontent.com/Crossbell-Box/io-sitemap/main/sitemaps/sitemap-index.xml",
+					"https://raw.githubusercontent.com/zinde-social/io-sitemap/main/sitemaps/sitemap-index.xml",
 			},
 			{
 				source: "/sitemap-:match*.xml",
 				destination:
-					"https://raw.githubusercontent.com/Crossbell-Box/io-sitemap/main/sitemaps/sitemap-:match*.xml",
+					"https://raw.githubusercontent.com/zinde-social/io-sitemap/main/sitemaps/sitemap-:match*.xml",
 			},
 			{
 				source: "/robots.txt",
 				destination:
-					"https://raw.githubusercontent.com/Crossbell-Box/io-sitemap/main/sitemaps/robots.txt",
+					"https://raw.githubusercontent.com/zinde-social/io-sitemap/main/sitemaps/robots.txt",
 			},
 		];
 	},

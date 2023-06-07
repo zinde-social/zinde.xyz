@@ -1,9 +1,9 @@
 {
 	"private": true,
-	"repository": "github:Crossbell-Box/zinde.xyz",
-	"bugs": "https://github.com/Crossbell-Box/zinde.xyz/issues",
-	"homepage": "https://github.com/Crossbell-Box/zinde.xyz#readme",
-	"author": "Natural Selection Labs",
+	"repository": "github:zinde-social/zinde.xyz",
+	"bugs": "https://github.com/zinde-socialzinde.xyz/issues",
+	"homepage": "https://github.com/zinde-social/zinde.xyz#readme",
+	"author": "Content here",
 	"scripts": {
 		"build": "pnpm --filter zinde.xyz run build",
 		"bump-version": "bumpp package.json packages/*/package.json sites/*/package.json",

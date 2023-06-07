@@ -56,7 +56,7 @@ export default function App({ Component, pageProps }: AppPropsWithLayout) {
 					site_name: "Crossbell",
 				}}
 				twitter={{
-					site: "@_Crossbell",
+					site: "@zindexyz",
 					cardType: "summary_large_image",
 				}}
 			/>

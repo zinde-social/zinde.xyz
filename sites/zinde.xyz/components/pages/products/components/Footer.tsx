@@ -20,7 +20,7 @@ export const linksGroup: {
 			{ text: "Indexer", href: "https://indexer.zinde.xyz/docs" },
 			{
 				text: "Wiki",
-				href: "https://github.com/Crossbell-Box/Crossbell-Contracts/wiki",
+				href: "https://github.com/zinde-social/Crossbell-Contracts/wiki",
 			},
 			{ text: "Blog", href: "https://crossbell-blog.xlog.app/" },
 			{ text: "Scan", href: "https://scan.zinde.xyz/" },
@@ -32,13 +32,13 @@ export const linksGroup: {
 		list: [
 			{
 				text: "Developer Discussion",
-				href: "https://github.com/orgs/Crossbell-Box/discussions",
+				href: "https://github.com/orgs/zinde-social/discussions",
 			},
 			{
 				text: "Twitter",
-				href: "https://twitter.com/_Crossbell",
+				href: "https://twitter.com/zindexyz",
 			},
-			{ text: "Discord", href: "https://discord.gg/4GCwDsruyj" },
+			{ text: "Discord", href: "https://discord.gg/zindegroup" },
 			{
 				text: "Careers",
 				href: "https://rss3.notion.site/Work-with-RSS3-77c6c5dd8fec45ca8747dd7c650782ec",
@@ -55,12 +55,12 @@ export const socialMedias: {
 	{
 		text: "Discord",
 		icon: "i-csb:discord",
-		link: "https://discord.gg/4GCwDsruyj",
+		link: "https://discord.gg/zindegroup",
 	},
 	{
 		text: "Twitter",
 		icon: "i-csb:twitter",
-		link: "https://twitter.com/_Crossbell",
+		link: "https://twitter.com/zindexyz",
 	},
 	{
 		text: "YouTube",
@@ -75,7 +75,7 @@ export const socialMedias: {
 	{
 		text: "GitHub",
 		icon: "i-csb:github",
-		link: "https://github.com/Crossbell-Box",
+		link: "https://github.com/zinde-social",
 	},
 ];
 

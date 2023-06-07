@@ -43,7 +43,7 @@ export function CommunitySupportSection() {
 
 					<a
 						className="ux-overlay bg-[#fff] text-[#000] text-[14px] font-medium w-full rounded-[12px] h-[48px] flex items-center justify-center"
-						href="https://discord.gg/4GCwDsruyj"
+						href="https://discord.gg/zindegroup"
 						target="_blank"
 					>
 						Join Crossbell Discord
