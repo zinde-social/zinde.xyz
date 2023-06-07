@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: zinde-xyz
-  namespace: crossbell
+  namespace: zinde
 spec:
   progressDeadlineSeconds: 600
   replicas: 2
