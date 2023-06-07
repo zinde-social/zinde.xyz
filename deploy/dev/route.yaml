@@ -1,7 +1,7 @@
 apiVersion: traefik.containo.us/v1alpha1
 kind: IngressRoute
 metadata:
-  name: crossbell-io
+  name: zinde-xyz
   namespace: crossbell
 spec:
   entryPoints:
@@ -10,5 +10,5 @@ spec:
   - kind: Rule
     match: Host(`crossbell.kindjeff.com`)
     services:
-    - name: crossbell-io
+    - name: zinde-xyz
       port: 3000

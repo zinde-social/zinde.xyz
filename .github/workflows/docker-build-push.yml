@@ -13,7 +13,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  IMAGE_NAME: flosspicks/crossbell-io
+  IMAGE_NAME: flosspicks/zinde-xyz
   REGION_ID: us-east-1
   DEV_ACK_CLUSTER_ID: cd1d0ffc40b5242b39ddda1864e71e30d
   PROD_ACK_CLUSTER_ID: cfc647c22fd6848b5a602ad4d7470632b

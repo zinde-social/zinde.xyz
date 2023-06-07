@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: crossbell-io
+  name: zinde-xyz
   namespace: crossbell
 spec:
   progressDeadlineSeconds: 600
@@ -9,7 +9,7 @@ spec:
   revisionHistoryLimit: 10
   selector:
     matchLabels:
-      app: crossbell-io
+      app: zinde-xyz
       tier: api
   strategy:
     rollingUpdate:
@@ -19,7 +19,7 @@ spec:
   template:
     metadata:
       labels:
-        app: crossbell-io
+        app: zinde-xyz
         tier: api
     spec:
       enableServiceLinks: false
@@ -33,7 +33,7 @@ spec:
       containers:
         - image: $IMAGE_TAG_RELEASE
           imagePullPolicy: Always
-          name: crossbell-io
+          name: zinde-xyz
           command:
             - npm
             - run
